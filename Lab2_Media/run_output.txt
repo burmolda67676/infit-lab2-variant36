@@ -1,0 +1,11 @@
+> python main.py
+> Ввод: image1.jpg
+Введите имя изображения (image1.jpg или image2.png): Готово: data/output/result.jpg
+
+> python main.py
+> Ввод: image2.png
+Введите имя изображения (image1.jpg или image2.png): Ошибка: Нет прав на чтение файла image2.png. Обратитесь к администратору
+
+> python main.py
+> Ввод: missing.jpg
+Введите имя изображения (image1.jpg или image2.png): Ошибка: Файл не найден
